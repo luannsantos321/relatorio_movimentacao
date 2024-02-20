@@ -59,7 +59,7 @@ with st.sidebar:
 if selecionar =='Regional':
 
     st.subheader('Regional')
-    mov_regional = pd.read_csv('Formatado.csv')
+   
 
     tabela = ''
     tabela2 = ''
@@ -124,7 +124,7 @@ if selecionar =='Regional':
 if selecionar =='CD':
 
     st.subheader('CD')
-    mov_regional = pd.read_csv('Formatado.csv')
+   
 
     tabela = ''
     tabela2 = ''
